@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="fastservices.us" id="f96087c2-8d42-477a-9286-0e4f341b3e67" port="22" nameFormat="DESCRIPTIVE" username="uvadzucumi" />
+    </configs>
+  </component>
+</project>
