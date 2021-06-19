@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="fastservices.us" id="f96087c2-8d42-477a-9286-0e4f341b3e67" port="22" nameFormat="DESCRIPTIVE" username="uvadzucumi" />
+      <sshConfig authType="PASSWORD" host="fastservices.us" id="f91c1d62-8ab0-4959-8ef4-0ae883e8317d" port="22" nameFormat="DESCRIPTIVE" username="uvadzucumi" />
     </configs>
   </component>
 </project>
